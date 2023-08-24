@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz Stechoq App</string>
+    <string name="Masuk">Masuk</string>
+    <string name="NIM">NIM</string>
+    <string name="Pendaftaran">Pendaftaran</string>
+    <string name="Daftar">Daftar</string>
+    <string name="Email">Email</string>
+    <string name="Nama">Nama</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Fullname">Fullname</string>
+    <string name="Confirm_pass">Confirm Password</string>
+</resources>
